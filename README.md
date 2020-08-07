@@ -9,5 +9,5 @@
     <li>Produtos</li>
     <li>Pagamento</li>
 </ul></h2>
-<h2>Tecnologias: Spring Boot + PostgreSQL</h2>
+<h2>Tecnologias: Java Spring Boot + PostgreSQL</h2>
 <h2><a href="https://app-sispedido.herokuapp.com/users">Link Api</a></h2>
